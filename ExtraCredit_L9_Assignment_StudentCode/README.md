@@ -4,19 +4,18 @@
 LIS 2360:  Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+4/20/17
 
 ### Student Name:  
-(First and Last Name)
+Hunter Bowan
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+Built a site that takes weather data and displays it
 
 ### View Project:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+https://hunterbowan.github.io/WeatherChannel/
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. Subscribing to an API and getting access to it
+2. Using an array in json to reference muliple items
+3. Grabbing specific data to put into inner html
