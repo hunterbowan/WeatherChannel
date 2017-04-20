@@ -13,7 +13,7 @@ Hunter Bowan
 Built a site that takes weather data and displays it
 
 ### View Project:
-https://hunterbowan.github.io/WeatherChannel/
+https://hunterbowan.github.io/WeatherChannel/ExtraCredit_L9_Assignment_StudentCode/index.html
 
 ### Lessons Learned in the Assignment:
 1. Subscribing to an API and getting access to it
